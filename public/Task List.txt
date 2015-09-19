@@ -1,0 +1,3 @@
+Coppy CSS, images and JS folder
+
+No change in name should be made.
